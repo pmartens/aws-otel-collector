@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/golangci/golangci-lint v1.39.0
-	golang.org/x/tools v0.1.0
+	golang.org/x/tools v0.1.12
 	honnef.co/go/tools v0.1.3
 )
 
@@ -118,10 +118,9 @@ require (
 	github.com/ultraware/funlen v0.0.3 // indirect
 	github.com/ultraware/whitespace v0.0.4 // indirect
 	github.com/uudashr/gocognit v1.0.1 // indirect
-	golang.org/x/mod v0.4.1 // indirect
-	golang.org/x/sys v0.0.0-20210228012217-479acdf4ea46 // indirect
-	golang.org/x/text v0.3.5 // indirect
-	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect
+	golang.org/x/text v0.3.8 // indirect
 	gopkg.in/ini.v1 v1.51.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c // indirect
